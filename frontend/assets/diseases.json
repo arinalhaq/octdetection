@@ -1,0 +1,32 @@
+{
+    "cnv": {
+        "title": "CNV",
+        "subtitle": "Choroidal Neovascularization (wet Age-Related Macular Degeneration)",
+        "definition": "Choroidal Neovacularization (CNV) adalah kondisi pada penyakit wet Age-Related Macular Degenration (AMD). kondisi ini adalah ketika pembuluh darah abnormal tumbuh di bawah retina, pembuluh darah ini dapat bocor dan berdarah sehingga menimbulkan kehilangan penglihatan",
+        "causes": "faktor usia (penuaan) adalah faktor utama penyakit ini terutama pada orang usia diatas 60 tahun. faktor lain yang membuat lebih beresiko: <ul><li>Merokok</li><li>Obesitas</li><li>Keturunan</li><li>Berkulit putih (kaukasia)</li><li>Hipertensi</li></ul>",
+        "treatment": "Pengobatan pada wet AMD adalah dengan pemberian obat anti-VEGF, pengobatan berikut dapat mengurangi jumlah pembuluh darah abnormal pada retina, dan memperlambat kebocoran pada pembuluh darah retina. pengobatan diberikan dengan suntikan pada mata.",
+        "diagnosis": "untuk diagnosis penyakit ini beberapa metode yang dapat digunakan adalah <ul><li>OCT (Optical Coherence Tomography)</li><li>Fluorescein Angiography</li></ul>",
+        "references": "<ul><li>W. Mathenge, “Age-related macular degeneration,” Community Eye Health Journal., vol. 27, no. 87, pp. 49-50, 2014</li><li><a href='https://www.aao.org/eye-health/diseases/amd-macular-degeneration'>https://www.aao.org/eye-health/diseases/amd-macular-degeneration</a></li></ul>",
+        "image": "CNV-1-Sampel.jpeg"
+    },
+    "dme": {
+        "title": "DME",
+        "subtitle": "Diabetic Macular Edema",
+        "definition": "Diabetic Macular Edema (DME) adalah kondisi lanjut pada penyakit Diabetic Retinopathy (DR). DME adalah penyakit dimana terjadi penebalan di retina akibat penumpukan cairan di makula, yang merupakan bagian paling sensitif di retina. ketika terjadi retinoati, pembuluh darah kapiler tidak dapat berfungsi dengan baik dalam mengatur sirkulasi cairan dan senyawa didalamnya. DME dapat terjadi pada setiap perkembangan DR",
+        "causes": "faktor utama penyakit ini adalah penderita diabetic retinopathy, dimana level gula darah yang tinggi dapat mengakibatkan kebocoran pembuluh darah di makula",
+        "treatment": "pengobatan pada DME adalah injeksi medis berupa pengobatan anti-VEGF, treatment steroid, pengobatan eye-drop, dan treatment laser",
+        "diagnosis": "untuk diagnosis penyakit ini beberapa metode yang dapat digunakan adalah <ul><li>OCT (Optical Coherence Tomography)</li><li>Fluorescein Angiography</li></ul>",
+        "references":"<ul><li><a href='https://www.aao.org/eye-health/diseases/what-is-macular-edema'>https://www.aao.org/eye-health/diseases/what-is-macular-edema</a></li></ul>",
+        "image": "DME-1-Sampel.jpeg"
+    },
+    "drusen": {
+        "title": "Drusen",
+        "subtitle": "Drusen (Dry Age-Related Macular Degeneration)",
+        "definition": "Drusen adalah kondisi pada penyakit dry Age-Related Macular Degenration (AMD). kondisi ini adalah ketika lapisan makula terdapat bagian retina menipis seiring usia dan rumpun kecil protein yang disebut 'drusen' mulai tumbuh",
+        "causes": "faktor usia (penuaan) adalah faktor utama penyakit ini terutama pada orang usia diatas 60 tahun. faktor lain yang membuat lebih beresiko: <ul><li>Merokok</li><li>Obesitas</li><li>Keturunan</li><li>Berkulit putih (kaukasia)</li><li>Hipertensi</li></ul>",
+        "treatment": "pengobatan untuk penyakit dry AMD belum ditemukan sampai sekarang, namun beberapa dokter pada beberapa pasien menyarankan meminum kombinasi suplemen nutrisi <ul><li>Vitamin C (500 mg)</li><li>Vitamin E (400 IU)</li><li>Lutein (10 mg)</li><li>Zeaxanthin (2 mg)</li><li>Zinc (80 mg)</li><li>Copper (2 mg)</li></ul> Namun tidak semua pasien dengan dry AMD sesuai dengan suplemen diatas",
+        "diagnosis": "untuk diagnosis penyakit ini beberapa metode yang dapat digunakan adalah <ul><li>OCT (Optical Coherence Tomography)</li><li>Fluorescein Angiography</li></ul>",
+        "references": "<ul><li>W. Mathenge, “Age-related macular degeneration,” Community Eye Health Journal., vol. 27, no. 87, pp. 49-50, 2014</li><li><a href='https://www.aao.org/eye-health/diseases/amd-macular-degeneration'>https://www.aao.org/eye-health/diseases/amd-macular-degeneration</a></li></ul>",
+        "image": "DRUSEN-1-Sampel.jpeg"
+    }
+}

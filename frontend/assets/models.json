@@ -1,0 +1,47 @@
+{
+    "resnet18": {
+        "title": "resnet18",
+        "description": "Residual Network (Resnet) merupakan kerangka pembelajaran residual yang mendalam, di mana setiap layer yang ditumpuk secara langsung sesuai dengan pemetaan dasar yang diinginkan, selain itu juga secara eksplisit membiarkan layer dengan pemetaan residual [1]. Pengembangan model dilakukan dengan menambahkan batch normalization pada layer klasifikasi",
+        "performance": {
+            "resnet18": [99.174, 99.174, 99.725],
+            "resnet18_bn": [99.587, 99.587, 99.862]
+        },
+        "references": "[1] K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, Dec. 2016, vol. 2016-Decem, pp. 770–778, doi: 10.1109/CVPR.2016.90.",
+        "image": "description/resnet18.png",
+        "img_caption": "Blok Koneksi Shortcut [1]",
+        "image_model": {
+            "resnet18": "architecture/resnet18.png", 
+            "resnet18_bn": "architecture/resnet18_bn.png"
+        }
+    },
+    "inceptionv3": {
+        "title": "inceptionv3",
+        "description": "Inception merupakan arsitektur yang pertama kali diperkenalkan oleh Szegedy dkk. pada ILSVRC 2014. Inception-V3 adalah versi paling populer dan menjadi runner-up pada ILSVRC 2015. Inception-V3 memperkenalkan penggunaan batch normalization dan faktorisasi layer konvolusi pada modul / blok. Dengan perbaikan yang ditawarkan Inception-V3 berhasil mengurangi biaya komputasi [1]. Pengembangan model dilakukan dengan menambahkan batch normalization pada layer klasifikasi",
+        "performance": {
+            "inceptionv3": [99.07, 99.07, 99.69],
+            "inceptionv3_bn": [99.793, 99.794, 99.931]
+        },
+        "references": "[1] C. Szegedy, V. Vanhoucke, S. Ioffe, J. Shlens, and Z. Wojna, “Rethinking the Inception Architecture for Computer Vision,” Proc. IEEE Comput. Soc. Conf. Comput. Vis. Pattern Recognit., vol. 2016-Decem, pp. 2818–2826, 2016, doi: 10.1109/CVPR.2016.308.",
+        "image": "description/inceptionv3.png",
+        "img_caption": "Arsitektur InceptionV3 [1]",
+        "image_model": {
+            "inceptionv3": "architecture/inceptionv3.png",
+            "inceptionv3_bn": "architecture/inceptionv3_bn.png"
+        }
+    },
+    "resnext50": {
+        "title": "resnext50",
+        "description": "Arsitektur ResNeXt merupakan perubahan lanjutan dari arsitektur ResNet dengan memperkenalkan dimensi baru “Kardinalitas” [1]. Arsitektur ResNeXt tersebut berhasil menjadi runner-up pada ILSVRC 2016. Arsitektur ResNeXt menggunakan topologi yang sama dengan arsitektur ResNet. Blok ResNet diperbaiki dengan menambahkan aggregasi pada serangkaian transformasi menjadi parallel membentuk beberapa jalur. Jumlah jalur pada blok ResNeXt sebelum diaggregasi disebut kardinalitas. Kardinalitas disebut menjadi faktor penting selain dimensi lebar dan kedalaman. Pengembangan model dilakukan dengan menambahkan batch normalization pada layer klasifikasi",
+        "performance": {
+            "resnext50": [99.174, 99.174, 99.725],
+            "resnext50_bn": [99.38, 99.38, 99.793]
+        },
+        "references": "[1] S. Xie, R. Girshick, P. Dollár, Z. Tu, and K. He, “Aggregated residual transformations for deep neural networks,” 2017. doi: 10.1109/CVPR.2017.634.",
+        "image": "description/resnext50.png",
+        "img_caption": "Blok ResNeXt [1]",
+        "image_model": {
+            "resnext50": "architecture/resnext50.png",
+            "resnext50_bn": "architecture/resnext50_bn.png"
+        }
+    }
+}

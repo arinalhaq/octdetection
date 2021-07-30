@@ -1,0 +1,7 @@
+hypercorn
+fastapi
+torch
+grad-cam
+numpy
+torchvision
+matplotlib
